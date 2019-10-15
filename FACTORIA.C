@@ -1,3 +1,4 @@
+//Program to print the factorial of  number 
 #include<stdio.h>
 #include<conio.h>
 void main()
